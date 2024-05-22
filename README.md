@@ -18,7 +18,14 @@
 </path></svg></a></div>
 <a href="https://www.linkedin.com/in/elsayadweb/" rel="nofollow">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishav-chanda-b89a791b3" height="30" width="40" style="max-width: 100%;">
+</a> ___ 
+<a href="mailto:elsayadweb@gmail.com" rel="nofollow">
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/800px-Gmail_icon_%282020%29.svg.png" alt="rishav-chanda-b89a791b3" height="30" width="40" style="max-width: 100%;">
 </a>
+
+
+
+ 
  
 <p dir="auto">
 
