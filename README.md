@@ -26,9 +26,7 @@ focusing on website, corporate systems, and mobile app API development. My stren
 
 <tr>
 <th>
-  
- 
-  👋 <a href="[https://www.linkedin.com/in/elsayadweb/](https://www.facebook.com/profile.php?id=100010572240350)" rel="nofollow">
+  👋<a href="[https://www.linkedin.com/in/elsayadweb/](https://www.facebook.com/profile.php?id=100010572240350)" rel="nofollow">
   <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Facebook_icon.svg/2048px-Facebook_icon.svg.png" alt="Facebook" height="50" width="50" style="max-width: 100%;">
 </a>
  
