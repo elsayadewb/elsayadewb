@@ -10,7 +10,7 @@
 <thead>
 <tr>
 <th>
- I'm Mohammed EL Sayad,  Fullstack Developer  from Egypt. I'm passionate about 
+ I'm Mohammed ELSayad,  Fullstack Developer  from Egypt. I'm passionate about 
   <a href="https://laravel.com/" rel="nofollow">
   PHP Laravel</a>, and I love diving into 
 focusing on website, corporate systems, and mobile app API development. My strengths lie in clean code pract
