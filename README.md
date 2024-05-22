@@ -61,9 +61,17 @@
    <img src="https://www.freepnglogos.com/uploads/javascript/javascript-online-logo-for-website-0.png" alt="javascript" width="40" height="40" style="max-width: 100%;">
  </a>    
  
+ 
 
  
+ <a href="https://www.w3schools.com/js/js_ajax_intro.asp" rel="nofollow">
+   <img src="https://coregenicsoftwares.com/wp-content/uploads/2022/01/pngkit_ajax-logo-png_3783642.png" alt="ajax" width="40" height="40" style="max-width: 100%;">
+ </a>   
  
+  
+ <a href="https://jquery.com/" rel="nofollow">
+   <img src="https://seeklogo.com/images/J/jquery-logo-CFE6ECE363-seeklogo.com.png" alt="ajax" width="40" height="40" style="max-width: 100%;">
+ </a>    
 
  
   <a href="https://reactjs.org/" rel="nofollow">
