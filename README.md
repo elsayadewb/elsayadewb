@@ -6,7 +6,22 @@
 <!--------------------------------------------------------------->
 <br>
  
-
+<table>
+<thead>
+<tr>
+<th>
+ I'm Mohammed EL Sayad,  Fullstack Developer  from Egypt. I'm passionate about 
+  <a href="https://laravel.com/" rel="nofollow">
+  PHP Laravel</a>, and I love diving into 
+focusing on website, corporate systems, and mobile app API development. My strengths lie in clean code pract
+. I believe in the power of technology to transform lives and create meaningful solutions. Let's connect and collaborate on exciting projects to make a positive impact!
+</th>
+<th><a target="_blank" rel="noopener noreferrer" href="/MohaElbadry/MohaElbadry/blob/main/senior-dev.jpg">
+ <img width="400px" align="right" src="https://media.licdn.com/dms/image/D4D03AQHCQ90a933PsA/profile-displayphoto-shrink_400_400/0/1683538107114?e=1721865600&v=beta&t=6fDHCV6rhrqmvqTVNpOdCrQm3UzXeAP0lkCjomAKre4" alt="" style="max-width: 100%;"></a>
+</th>
+</tr>
+</thead>
+</table>
 
 
 <div class="markdown-heading" dir="auto">
