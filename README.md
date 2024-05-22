@@ -1,6 +1,5 @@
 
 ![API](https://github.com/elsayadewb/elsayadewb/assets/97060877/07455e14-4dac-4edd-a0a5-cea319b97cc2)
--->
 ### Welcome I'm Fullstack Developer From Egypt 👋
 
 <!--------------------------------------------------------------->
@@ -27,7 +26,7 @@ focusing on website, corporate systems, and mobile app API development. My stren
 
 <tr>
 <th>
-  Connect with me:👋
+   👋
  
  <a href="https://www.linkedin.com/in/elsayadweb/" rel="nofollow">
   <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Facebook_icon.svg/2048px-Facebook_icon.svg.png" alt="Facebook" height="50" width="50" style="max-width: 100%;">
@@ -37,9 +36,20 @@ focusing on website, corporate systems, and mobile app API development. My stren
  <a href="https://api.whatsapp.com/send?phone=201140025208" rel="nofollow">
   <img align="center" src="https://almoustafacademy.com/default/whatspp-icon.gif" alt="whatsapp" height="50" width="50" style="max-width: 100%;">
 </a>
-
+ 
+ <a href="https://www.instagram.com/mhlsyd1134/" rel="nofollow">
+  <img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-512.png" alt="instagram" height="50" width="50" style="max-width: 100%;">
+</a>
+ 
+ <a href="https://elsayadweb" rel="nofollow">
+  <img align="center" src="https://cdn-icons-png.flaticon.com/512/3308/3308395.png" alt="instagram" height="50" width="50" style="max-width: 100%;">
+</a>
 </th>
-<th><a target="_blank" rel="noopener noreferrer" href="https://elsayadweb.com/">
+
+<th>
+ 👋Connect With Me:
+
+ <a target="_blank" rel="noopener noreferrer" href="https://elsayadweb.com/">
 <a href="https://www.linkedin.com/in/elsayadweb/" rel="nofollow">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishav-chanda-b89a791b3" height="30" width="40" style="max-width: 100%;">
 </a> ___ 
