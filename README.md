@@ -1,5 +1,6 @@
 
 ![API](https://github.com/elsayadewb/elsayadewb/assets/97060877/07455e14-4dac-4edd-a0a5-cea319b97cc2)
+-->
 ### Welcome I'm Fullstack Developer From Egypt 👋
 
 <!--------------------------------------------------------------->
@@ -16,10 +17,43 @@
 focusing on website, corporate systems, and mobile app API development. My strengths lie in clean code pract
 . I believe in the power of technology to transform lives and create meaningful solutions. Let's connect and collaborate on exciting projects to make a positive impact!
 </th>
-<th><a target="_blank" rel="noopener noreferrer" href="https://elsayadweb.com/">
+<th>
+ <a target="_blank" rel="noopener noreferrer" href="https://elsayadweb.com/">
  <img width="400px" align="right" src="https://media.licdn.com/dms/image/D4D03AQHCQ90a933PsA/profile-displayphoto-shrink_400_400/0/1683538107114?e=1721865600&v=beta&t=6fDHCV6rhrqmvqTVNpOdCrQm3UzXeAP0lkCjomAKre4" alt="" style="max-width: 100%;"></a>
 </th>
 </tr>
+
+
+
+<tr>
+<th>
+  Connect with me:👋
+ 
+ <a href="https://www.linkedin.com/in/elsayadweb/" rel="nofollow">
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Facebook_icon.svg/2048px-Facebook_icon.svg.png" alt="Facebook" height="50" width="50" style="max-width: 100%;">
+</a>
+ 
+ 
+ <a href="https://api.whatsapp.com/send?phone=201140025208" rel="nofollow">
+  <img align="center" src="https://almoustafacademy.com/default/whatspp-icon.gif" alt="whatsapp" height="50" width="50" style="max-width: 100%;">
+</a>
+
+</th>
+<th><a target="_blank" rel="noopener noreferrer" href="https://elsayadweb.com/">
+<a href="https://www.linkedin.com/in/elsayadweb/" rel="nofollow">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishav-chanda-b89a791b3" height="30" width="40" style="max-width: 100%;">
+</a> ___ 
+<a href="mailto:elsayadweb@gmail.com" rel="nofollow">
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/800px-Gmail_icon_%282020%29.svg.png" alt="rishav-chanda-b89a791b3" height="30" width="40" style="max-width: 100%;">
+</a> 
+
+</th>
+</tr>
+
+
+
+
+ 
 </thead>
 </table>
 
