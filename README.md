@@ -114,6 +114,9 @@
  <a   rel="nofollow">
    <img src="https://www.iconpacks.net/icons/2/free-database-server-icon-2375-thumb.png" alt="git" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="max-width: 100%;">
  </a> 
+ <a   herf="https://www.tealhq.com/career-paths/api-developer" rel="nofollow">
+   <img src="https://cdn-icons-png.flaticon.com/512/6213/6213702.png" alt="API" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="max-width: 100%;">
+ </a> 
  
  </p>
 <div class="markdown-heading" dir="auto">
