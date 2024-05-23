@@ -12,7 +12,7 @@
 <th>
  I'm Mohammed ELSayad,  Fullstack Developer  from Egypt. I'm passionate about 
   <a href="https://laravel.com/" rel="nofollow">
-  PHP Laravel</a>, and I love diving into 
+  PHP Laravel 🥰</a>, and I love diving into 
 focusing on website, corporate systems, and mobile app API development. My strengths lie in clean code pract
 . I believe in the power of technology to transform lives and create meaningful solutions. Let's connect and collaborate on exciting projects to make a positive impact!
 </th>
@@ -46,7 +46,6 @@ focusing on website, corporate systems, and mobile app API development. My stren
 
 <th>
  👋Connect With Me:
-
  <a target="_blank" rel="noopener noreferrer" href="https://elsayadweb.com/">
 <a href="https://www.linkedin.com/in/elsayadweb/" rel="nofollow">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishav-chanda-b89a791b3" height="30" width="40" style="max-width: 100%;">
@@ -182,7 +181,7 @@ focusing on website, corporate systems, and mobile app API development. My stren
  </p>
 <div class="markdown-heading" dir="auto">
   <h3 class="heading-element" dir="auto">
-  💻 Happy coding! ❤️</h3><a id="user-content-happy-coding-️" class="anchor" aria-label="Permalink: Happy coding! ❤️" href="#happy-coding-️">
+  💻 Happy coding 🥰 ❤️</h3><a id="user-content-happy-coding-️" class="anchor" aria-label="Permalink: Happy coding! ❤️" href="#happy-coding-️">
   <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true">
   <path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z">
 
