@@ -14,7 +14,7 @@
   <a href="https://laravel.com/" rel="nofollow">
   PHP Laravel 🥰</a>, and I love diving into 
 focusing on website, corporate systems, and mobile app API development. My strengths lie in clean code pract
-. I believe in the power of technology to transform lives and create meaningful solutions. Let's connect and collaborate on exciting projects to make a positive impact!
+. I believe in the power of technology to transform lives and create meaningful solutions. Let's connect and collaborate on exciting projects to make a positive impact! 💻  🥰
 </th>
 <th>
  <a target="_blank" rel="noopener noreferrer" href="https://elsayadweb.com/">
