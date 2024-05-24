@@ -193,8 +193,27 @@ focusing on website, corporate systems, and mobile app API development. My stren
   <path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z">
 
 </path></svg></a></div>
+  
+ 
+<p dir="auto">
+
+
  
 
+<img src="https://camo.githubusercontent.com/1c12ba9f7aab9d773ed4ee49e1b37ac6fdcece604be0f372cec546e5acceb55d/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d6d6f2673686f775f69636f6e733d7472756526636f756e745f707269766174653d74727565" alt="" data-canonical-src="https://github-readme-stats.vercel.app/api?username=MohaElbadry&amp;&amp;show_icons=true&amp;count_private=true&amp;title_color=72A6FD&amp;icon_color=bb2acf&amp;text_color=38BDAD&amp;bg_color=FFFFFF00" style=" width:400;">
+
+
+ 
+<img src="https://camo.githubusercontent.com/022b9e8ec33bea2eca7ec564bf243bb272e07fcb3f993cee97a06700c56f1962/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d6d6f" alt="" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohaElbadry&amp;layout=compact&amp;theme=tokyonight&amp;hide=php&amp;langs_count=8&amp;bg_color=FFFFFF00" style=" width:400;">
+
+
+<img src="https://camo.githubusercontent.com/f0175473871b7b407f795bc2a21a9454c5fe1c577ec80071ae2f2cb42cb8b1f4/68747470733a2f2f6170692e7661756e742e6465762f76312f6769746875622f656e7469746965732f6d6f2f636f6e747269627574696f6e733f666f726d61743d73766726707269766174653d74727565" style=" width:400;">
+
+ 
+
+</p>
+ 
+ 
  <themed-picture data-catalyst-inline="true" data-catalyst="">
   <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MohaElbadry/MohaElbadry/output/github-contribution-grid-snake-dark.svg">
