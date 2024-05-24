@@ -19,7 +19,7 @@ focusing on website, corporate systems, and mobile app API development. My stren
 </th>
 <th>
  <a target="_blank" rel="noopener noreferrer" href="https://elsayadweb.com/">
- <img width="400px" align="right" src="https://media.licdn.com/dms/image/D4D03AQHCQ90a933PsA/profile-displayphoto-shrink_400_400/0/1683538107114?e=1721865600&v=beta&t=6fDHCV6rhrqmvqTVNpOdCrQm3UzXeAP0lkCjomAKre4" alt="" style="max-width: 100%;"></a>
+ <img width="400px" align="right" src="https://media.licdn.com/dms/image/D4D03AQHpYWOGMbbbJA/profile-displayphoto-shrink_800_800/0/1716450517963?e=1721865600&v=beta&t=Xr1iYn8C8qY7T-0qQigfagaeXfnpsZPNdBkCamfPJ_c" alt="" style="max-width: 100%;"></a>
 </th>
 </tr>
 
