@@ -19,7 +19,7 @@ focusing on website, corporate systems, and mobile app API development. My stren
 . I believe in the power of technology to transform lives and create meaningful solutions. Let's connect and collaborate on exciting projects to make a positive impact! 💻  🥰
 </th>
 <th>
- <a target="_blank" rel="noopener noreferrer" href="https://elsayadweb.com/"   width="70px">
+ <a target="_blank" rel="noopener noreferrer" href="https://elsayadweb.com/"   width="70px"  height="70px">
  <img width="400px" height ="173px"  align="right" src="https://media.licdn.com/dms/image/D4D03AQHpYWOGMbbbJA/profile-displayphoto-shrink_800_800/0/1716450517963?e=1721865600&v=beta&t=Xr1iYn8C8qY7T-0qQigfagaeXfnpsZPNdBkCamfPJ_c" alt="" style="max-width: 100%;"></a>
 </th>
 </tr>
@@ -29,30 +29,30 @@ focusing on website, corporate systems, and mobile app API development. My stren
   👋 
    <img align="center"src="https://camo.githubusercontent.com/4ccd548e76ac64bd14d316108c5ded2680335b91c7d019c2d5c61b025b897f8c/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6959384352426451584f444a5343455249722f67697068792e676966" alt="rishav-chanda-b89a791b3" height="40" width="40" style="max-width: 100%;">
    <!----
- <a href="https://www.linkedin.com/in/elsayadweb/" rel="nofollow"   width="70px">
+ <a href="https://www.linkedin.com/in/elsayadweb/" rel="nofollow"   width="70px"  height="70px">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="whatsapp" height="50" width="50" style="max-width: 100%;">
 </a>
  -->
     
- <a href="https://www.linkedin.com/in/elsayadweb/" rel="nofollow"  width="70px">
+ <a href="https://www.linkedin.com/in/elsayadweb/" rel="nofollow"  width="70px" height="70px">
   <img align="center" src="https://cdn.iconscout.com/icon/premium/png-256-thumb/linkedin-3506278-2932736.png?f=webp" alt="whatsapp" height="50" width="50" style="max-width: 100%;">
 </a>
 
- <a href="https://www.facebook.com/profile.php?id=100010572240350" rel="nofollow"   width="70px">
+ <a href="https://www.facebook.com/profile.php?id=100010572240350" rel="nofollow"   width="70px"  height="70px">
   <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Facebook_icon.svg/2048px-Facebook_icon.svg.png" alt="Facebook" height="50" width="50" style="max-width: 100%;">
 </a>
 
  
- <a href="https://www.instagram.com/mhlsyd1134/" rel="nofollow"   width="70px">
+ <a href="https://www.instagram.com/mhlsyd1134/" rel="nofollow"   width="70px"  height="70px">
   <img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-512.png" alt="instagram" height="50" width="50" style="max-width: 100%;">
 </a>
  
- <a href="https://api.whatsapp.com/send?phone=201140025208" rel="nofollow"   width="70px">
+ <a href="https://api.whatsapp.com/send?phone=201140025208" rel="nofollow"   width="70px"  height="70px">
   <img align="center" src="https://almoustafacademy.com/default/whatspp-icon.gif" alt="whatsapp" height="50" width="50" style="max-width: 100%;">
 </a>
  
  
- <a href="https://elsayadweb.com/" rel="nofollow"   width="70px">
+ <a href="https://elsayadweb.com/" rel="nofollow"   width="70px"  height="70px">
   <img align="center" src="https://cdn-icons-png.flaticon.com/512/3308/3308395.png" alt="instagram" height="50" width="50" style="max-width: 100%;">
 </a> 
 </th><th>👋Connect With Me: 
