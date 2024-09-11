@@ -138,10 +138,11 @@ ___
    <img src="https://seeklogo.com/images/J/jquery-logo-CFE6ECE363-seeklogo.com.png" alt="ajax" width="40" height="40" style="max-width: 100%;">
  </a>    
 
- 
+ <!--
   <a href="https://reactjs.org/" rel="nofollow">
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" style="max-width: 100%;">
  </a> 
+  -->
  
  
   <a href="https://www.php.net" rel="nofollow">
