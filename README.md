@@ -29,11 +29,7 @@ focusing on website, corporate systems, and mobile app API development. My stren
  <tr>
 <th>
   👋  
-    <!----
- <a href="https://www.linkedin.com/in/elsayadweb/" rel="nofollow"   width="70px"  height="70px">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="whatsapp" height="50" width="50" style="max-width: 100%;">
-</a>
- -->
+  
     
  <a href="https://www.linkedin.com/in/elsayadweb/" rel="nofollow"  width="70px" height="70px">
   <img align="center" src="https://cdn.iconscout.com/icon/premium/png-256-thumb/linkedin-3506278-2932736.png?f=webp" alt="whatsapp" height="50" width="50" style="max-width: 100%;">
@@ -104,9 +100,8 @@ ___
 </p>
 <div class="markdown-heading" dir="auto">
   <h3 align="left" class="heading-element" dir="auto">
- 💻
-  <img align="center"src="https://camo.githubusercontent.com/4ccd548e76ac64bd14d316108c5ded2680335b91c7d019c2d5c61b025b897f8c/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6959384352426451584f444a5343455249722f67697068792e676966" alt="rishav-chanda-b89a791b3" height="30" width="30" style="max-width: 100%;">
- Languages and Tools👇:</h3><a id="user-content-languages-and-tools" class="anchor" aria-label="Permalink: Languages and Tools:" href="#languages-and-tools">
+ 
+💻 Languages and Tools👇:</h3><a id="user-content-languages-and-tools" class="anchor" aria-label="Permalink: Languages and Tools:" href="#languages-and-tools">
   <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true">
   <path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z">
 
@@ -126,7 +121,7 @@ ___
  </a> 
  
  <a href="https://tailwindcss.com/" rel="nofollow">
-   <img src="https://camo.githubusercontent.com/0568e2de313626b2bd9b96f326941b012d45e9a4db1a23aa78bd8036207e57f8/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f7461696c77696e646373732f7461696c77696e646373732d69636f6e2e737667" alt="tailwind" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" style="max-width: 100%;">
+   <img src="https://static-00.iconduck.com/assets.00/tailwind-css-icon-2048x1229-u8dzt4uh.png" alt="tailwind" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" style="max-width: 100%;">
  </a>
   
  
@@ -175,11 +170,11 @@ ___
  </a>
 
    <a href="https://postman.com" rel="nofollow">
-   <img src="https://camo.githubusercontent.com/a13ca5b988ada41839ebe4f88455e63419a1b56fcb5eda207794cd1649a61d2c/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676574706f73746d616e2f676574706f73746d616e2d69636f6e2e737667" alt="postman" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" style="max-width: 100%;">
+   <img src="https://cdn.iconscout.com/icon/free/png-256/free-postman-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-company-brand-vol-5-pack-logos-icons-2945092.png?f=webp&w=256" alt="postman" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" style="max-width: 100%;">
  </a> 
  
  <a href="https://git-scm.com/" rel="nofollow">
-   <img src="https://camo.githubusercontent.com/fcafa5ebc1f5f789ae7d012a3ecd8fe7bda49516591caf7c37698f764165d880/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667" alt="git" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="max-width: 100%;">
+   <img src="https://cdn3.iconfinder.com/data/icons/social-media-2169/24/social_media_social_media_logo_git-512.png" alt="git" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="max-width: 100%;">
  </a> 
  <a   rel="nofollow">
    <img src="https://www.iconpacks.net/icons/2/free-database-server-icon-2375-thumb.png" alt="git" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="max-width: 100%;">
@@ -216,24 +211,22 @@ ___
   <h2 class="heading-element" dir="auto">
   📊 My Github Stats</h2>
 
-<a id="user-content--my-github-stats" class="anchor" aria-label="Permalink: 📊 My Github Stats" href="#-my-github-stats">
-  <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true">
-  <path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z">
-</path></svg></a></div>
-<p dir="auto">
-<img src="https://camo.githubusercontent.com/1c12ba9f7aab9d773ed4ee49e1b37ac6fdcece604be0f372cec546e5acceb55d/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d6d6f2673686f775f69636f6e733d7472756526636f756e745f707269766174653d74727565" height="283px" alt="" data-canonical-src="https://github-readme-stats.vercel.app/api?username=MohaElbadry&amp;&amp;show_icons=true&amp;count_private=true&amp;title_color=72A6FD&amp;icon_color=bb2acf&amp;text_color=38BDAD&amp;bg_color=FFFFFF00" style=" width:400;">
-
-<img src="https://camo.githubusercontent.com/022b9e8ec33bea2eca7ec564bf243bb272e07fcb3f993cee97a06700c56f1962/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d6d6f" alt="" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohaElbadry&amp;layout=compact&amp;theme=tokyonight&amp;hide=php&amp;langs_count=8&amp;bg_color=FFFFFF00" style=" width:400;"  height="283px">
-<br>
  
-<img src="https://camo.githubusercontent.com/f0175473871b7b407f795bc2a21a9454c5fe1c577ec80071ae2f2cb42cb8b1f4/68747470733a2f2f6170692e7661756e742e6465762f76312f6769746875622f656e7469746965732f6d6f2f636f6e747269627574696f6e733f666f726d61743d73766726707269766174653d74727565" style=" width:400;">
+
+
+
+</div>
+<p dir="auto">
+ 
+ 
+<br>
+  
 </p>
 </br>
  <themed-picture data-catalyst-inline="true" data-catalyst="">
   <picture>
    
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MohaElbadry/MohaElbadry/output/github-contribution-grid-snake-dark.svg">
-
+ 
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MohaElbadry/MohaElbadry/output/github-contribution-grid-snake.svg">
 
   <img alt="gi+thub contribution grid snake animation" src="https://raw.githubusercontent.com/MohaElbadry/MohaElbadry/output/github-contribution-grid-snake.svg" style="visibility:visible;max-width:100%;">
