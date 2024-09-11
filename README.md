@@ -28,9 +28,8 @@ focusing on website, corporate systems, and mobile app API development. My stren
 
  <tr>
 <th>
-  👋 
-   <img align="center"src="https://camo.githubusercontent.com/4ccd548e76ac64bd14d316108c5ded2680335b91c7d019c2d5c61b025b897f8c/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6959384352426451584f444a5343455249722f67697068792e676966" alt="rishav-chanda-b89a791b3" height="40" width="40" style="max-width: 100%;">
-   <!----
+  👋  
+    <!----
  <a href="https://www.linkedin.com/in/elsayadweb/" rel="nofollow"   width="70px"  height="70px">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="whatsapp" height="50" width="50" style="max-width: 100%;">
 </a>
@@ -58,7 +57,7 @@ focusing on website, corporate systems, and mobile app API development. My stren
   <img align="center" src="https://cdn-icons-png.flaticon.com/512/3308/3308395.png" alt="instagram" height="50" width="50" style="max-width: 100%;">
 </a> 
 </th><th>👋Connect With Me: 
- <img align="center"src="https://camo.githubusercontent.com/4ccd548e76ac64bd14d316108c5ded2680335b91c7d019c2d5c61b025b897f8c/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6959384352426451584f444a5343455249722f67697068792e676966" alt="rishav-chanda-b89a791b3" height="10" width="10" style="max-width: 100%;">
+  
  <a target="_blank" rel="noopener noreferrer" href="https://elsayadweb.com/">
   <!--
 <a href="https://www.linkedin.com/in/elsayadweb/" rel="nofollow">
@@ -67,7 +66,7 @@ focusing on website, corporate systems, and mobile app API development. My stren
   -->
 <a href="mailto:elsayadweb@gmail.com" rel="nofollow">
   <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/800px-Gmail_icon_%282020%29.svg.png" alt="rishav-chanda-b89a791b3" height="30" width="40" style="max-width: 100%;">
-  <img align="center"src="https://camo.githubusercontent.com/4ccd548e76ac64bd14d316108c5ded2680335b91c7d019c2d5c61b025b897f8c/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6959384352426451584f444a5343455249722f67697068792e676966" alt="rishav-chanda-b89a791b3" height="10" width="10" style="max-width: 100%;">
+  
 </a> 
 
 </th>
